@@ -1,0 +1,86 @@
+<categories>
+  <category name="pokemon">
+      <targetWord word="creature">1000.0</targetWord>
+      <targetWord word="trainer">500.0</targetWord>
+      <targetWord word="evolution">800.0</targetWord>
+      <targetWord word="element">700.0</targetWord>
+      <targetWord word="rarity">900.0</targetWord>
+      <targetWord word="battle">1000.0</targetWord>
+      <targetWord word="collector">1200.0</targetWord>
+      <targetWord word="energy">600.0</targetWord>
+      <targetWord word="holographic">1100.0</targetWord>
+      <targetWord word="promo">1000.0</targetWord>
+      <targetWord word="shiny">900.0</targetWord>
+      <targetWord word="legendary">1000.0</targetWord>
+      <targetWord word="deck">800.0</targetWord>
+      <targetWord word="tournament">700.0</targetWord>
+      <targetWord word="booster">1000.0</targetWord>
+      <targetWord word="trade">1200.0</targetWord>
+  </category>
+  <category name="baseball">
+      <targetWord word="player">1000.0</targetWord>
+      <targetWord word="team">800.0</targetWord>
+      <targetWord word="bat">700.0</targetWord>
+      <targetWord word="pitcher">900.0</targetWord>
+      <targetWord word="card">1000.0</targetWord>
+      <targetWord word="rookie">1200.0</targetWord>
+      <targetWord word="autograph">1100.0</targetWord>
+      <targetWord word="jersey">800.0</targetWord>
+      <targetWord word="season">600.0</targetWord>
+      <targetWord word="vintage">900.0</targetWord>
+      <targetWord word="coach">1000.0</targetWord>
+      <targetWord word="stadium">800.0</targetWord>
+      <targetWord word="trading">700.0</targetWord>
+      <targetWord word="homerun">900.0</targetWord>
+      <targetWord word="legend">1000.0</targetWord>
+      <targetWord word="collector">1200.0</targetWord>
+  </category>
+  <category name="magic">
+      <targetWord word="spell">1000.0</targetWord>
+      <targetWord word="creature">800.0</targetWord>
+      <targetWord word="mana">700.0</targetWord>
+      <targetWord word="rarity">900.0</targetWord>
+      <targetWord word="enchantment">1000.0</targetWord>
+      <targetWord word="planeswalker">1200.0</targetWord>
+      <targetWord word="draft">1100.0</targetWord>
+      <targetWord word="foil">800.0</targetWord>
+      <targetWord word="expansion">600.0</targetWord>
+      <targetWord word="tournament">900.0</targetWord>
+      <targetWord word="mythic">1000.0</targetWord>
+      <targetWord word="sorcery">800.0</targetWord>
+      <targetWord word="counter">700.0</targetWord>
+      <targetWord word="modern">900.0</targetWord>
+      <targetWord word="legacy">1000.0</targetWord>
+      <targetWord word="vintage">1200.0</targetWord>
+  </category>
+  <category name="yugioh">
+      <targetWord word="monster">1000.0</targetWord>
+      <targetWord word="spell">800.0</targetWord>
+      <targetWord word="trap">700.0</targetWord>
+      <targetWord word="duel">900.0</targetWord>
+      <targetWord word="fusion">1000.0</targetWord>
+      <targetWord word="synchro">1200.0</targetWord>
+      <targetWord word="xyz">1100.0</targetWord>
+      <targetWord word="booster">800.0</targetWord>
+      <targetWord word="tournament">600.0</targetWord>
+      <targetWord word="rarity">900.0</targetWord>
+      <targetWord word="structure">1000.0</targetWord>
+      <targetWord word="legendary">800.0</targetWord>
+      <targetWord word="archetype">700.0</targetWord>
+      <targetWord word="deck">900.0</targetWord>
+      <targetWord word="banlist">1000.0</targetWord>
+      <targetWord word="collection">1200.0</targetWord>
+  </category>
+  <category name="final_fantasy">
+      <targetWord word="summon">1000.0</targetWord>
+      <targetWord word="character">800.0</targetWord>
+      <targetWord word="crystal">700.0</targetWord>
+      <targetWord word="adventure">900.0</targetWord>
+      <targetWord word="mythical">1000.0</targetWord>
+      <targetWord word="legend">1200.0</targetWord>
+      <targetWord word="quest">1100.0</targetWord>
+      <targetWord word="sword">800.0</targetWord>
+      <targetWord word="magicite">600.0</targetWord>
+      <targetWord word="lore">900.0</targetWord>
+  </category>
+</categories>

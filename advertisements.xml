@@ -1,0 +1,34 @@
+<templates>
+  <template type="DM">
+    <message>@$name, would you like to buy $product cards? It is on sale now!</message>
+  </template>
+
+  <template type="Email">
+    <message>Dear $name,
+
+We have currently got $product cards on sale. We saw your review ($stars/5.0):
+
+$review
+
+Please let us know if you want to recieve more messages like this.</message>
+  </template>
+
+  <template type="Instagram">
+    <message>This is on sale now! Get it today! @$name</message>
+  </template>
+
+  <template type="YouTube">
+    <message>$name, Check out the latest video: $product card Review!</message>
+  </template>
+
+  <template type="Text">
+    <message>Hey $name!
+
+Just wanted to let you know that $product cards are now available at a special price.
+
+Check it out and let us know if you're interested!
+
+Cheers</message>
+  </template>
+
+</templates>
